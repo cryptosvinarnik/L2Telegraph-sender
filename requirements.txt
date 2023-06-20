@@ -1,0 +1,5 @@
+eth_account==0.5.9
+loguru==0.7.0
+pydantic==1.10.2
+PyYAML==6.0
+web3==5.31.3
